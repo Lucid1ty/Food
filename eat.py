@@ -64,3 +64,4 @@ def init_food_list():
 
 if __name__ == '__main__':
     print(init_food_list()[random.randint(0, len(init_food_list()) - 1)])
+    print("Hello World!")

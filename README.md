@@ -12,10 +12,3 @@ Python
 2. 在 init_food_list() 函数中把 food_list 中的内容删除，填入你自己的食物列表
 3. 运行eat.py
 4. 得到结果
-
-
-
-
-
-Test！
-
